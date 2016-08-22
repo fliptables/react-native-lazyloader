@@ -1,0 +1,27 @@
+{
+  "name": "react-native-lazyloader",
+  "version": "1.0.0",
+  "description": "Component to delay loading children components until needed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fliptables/react-native-lazyloader.git"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "native",
+    "lazy",
+    "lazy",
+    "loader"
+  ],
+  "author": "Elliot Nash, Fliptables",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fliptables/react-native-lazyloader/issues"
+  },
+  "homepage": "https://github.com/fliptables/react-native-lazyloader#readme"
+}
